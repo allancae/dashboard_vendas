@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 import requests 
-import plotly as px
+import plotly.express as px
 import seaborn as sns
 import matplotlib.pyplot as plt
 
